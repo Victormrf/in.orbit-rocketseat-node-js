@@ -1,4 +1,3 @@
-import { z } from 'zod'
 import type { FastifyPluginAsyncZod } from 'fastify-type-provider-zod'
 import { getWeekPendingGoals } from '../../features/get-week-pending-goals'
 
